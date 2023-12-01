@@ -1,0 +1,1 @@
+This dir contains all the scripts to comple project 'SQL - Introduction'
